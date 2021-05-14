@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ejercicios
+comment1.params=n
+comment1.target=int\ escalera(int)
+comment2.params=n
+comment2.target=int\ padovan(int)
+numComments=3
